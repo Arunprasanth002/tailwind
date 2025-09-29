@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(249, 190, 190);
+}
+.card{
+    margin: 100px;
+    background-color: white;
+    width: 50vh;
+    height: 50vh;
+    text-align: center;
+    padding:20px;
+    padding-top: 50px;
+    border-radius: 20px;
+    
+}
+.card:hover{
+    scale: 1.01;
+    box-shadow: 10px 10px 20px rgb(126, 124, 124);
+}
+p{
+    color: red;
+}
+button{
+    background-color: rgb(70, 70, 240);
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+button:hover{
+    scale: 1.1;
+    box-shadow: 10px 2px 20px black;
+}
+img{
+    border-radius: 50px;
+}
